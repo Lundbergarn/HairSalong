@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Sax & Fön",
+    "adress": "Rådmansgatan 46",
+    "post": "133 57",
+    "city": "Stockholm",
+    "time": "Öppet till 19:00 idag",
+    "price": "350",
+    "phone": "08-522 389 20",
+    "webpage": "www.saxfon.se",
+    "stars": 3,
+    "info": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+  },
+  {
+    "id": "2",
+    "name": "Hårizont",
+    "adress": "Gamla Stan 4",
+    "post": "133 57",
+    "city": "Stockholm",
+    "time": "Öppet till 20:00 idag",
+    "price": "250",
+    "phone": "08-522 389 20",
+    "webpage": "www.harizont.se",
+    "stars": 2,
+    "info": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+  },
+  {
+    "id": "3",
+    "name": "Hårhuset",
+    "adress": "Rådmansgatan 46",
+    "post": "133 57",
+    "city": "Stockholm",
+    "time": "Öppet till 16:00 idag",
+    "price": "450",
+    "phone": "08-522 389 20",
+    "webpage": "www.harhuset.se",
+    "stars": 4,
+    "info": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+  },
+  {
+    "id": "4",
+    "name": "Hair & Nu",
+    "adress": "Rådmansgatan 46",
+    "post": "133 57",
+    "city": "Stockholm",
+    "time": "Öppet till 18:00 idag",
+    "price": "200",
+    "phone": "08-522 389 20",
+    "webpage": "www.hairnu.se",
+    "stars": 3,
+    "info": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+  },
+  {
+    "id": "5",
+    "name": "Hårley Davidson",
+    "adress": "Rådmansgatan 46",
+    "post": "133 57",
+    "city": "Stockholm",
+    "time": "Öppet till 19:00 idag",
+    "price": "500",
+    "phone": "08-522 389 20",
+    "webpage": "www.harleydavidson.se",
+    "stars": 5,
+    "info": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+  }
+]

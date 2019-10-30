@@ -1,0 +1,26 @@
+.navigation__salong {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  background-color: #ffffff;
+  align-items: center;
+  padding: 0;
+}
+.navigation__text {
+  font-size: 15px;
+  color: #202020;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  border-bottom: 1px solid #eee;
+}
+.navigation__text--selected {
+  width: 100%;
+  border-bottom: solid 2px #b69f58;
+}
+.navigation__text:hover {
+  background: #b69f58;
+  color: #fff;
+}
