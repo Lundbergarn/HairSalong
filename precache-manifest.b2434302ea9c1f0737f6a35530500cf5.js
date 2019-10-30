@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "020ec1af8ed1b077ee998a7b5144e74b",
+    "revision": "902a5eeda5a17b0a37d062525d786b0a",
     "url": "/HairSalong/index.html"
   },
   {
-    "revision": "03ced47b995da7a9b4f4",
+    "revision": "c5190cb0f6b26b931300",
     "url": "/HairSalong/static/css/main.75c32fd9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HairSalong/static/js/2.a13e19b8.chunk.js"
   },
   {
-    "revision": "03ced47b995da7a9b4f4",
-    "url": "/HairSalong/static/js/main.e9b3da67.chunk.js"
+    "revision": "c5190cb0f6b26b931300",
+    "url": "/HairSalong/static/js/main.ffded3f1.chunk.js"
   },
   {
     "revision": "e3bc5806c14abf43dac8",
