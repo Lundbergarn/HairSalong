@@ -18,14 +18,14 @@ const App = () => {
       <Router >
           <Switch>
             <Route
+              path="/"
+              exact
+              component={ FilterSalongs }
+            />
+            <Route
               path="/salong/*"
               exact
               component={ SalongView } 
-            />
-            <Route
-              path="/filter_salongs"
-              exact
-              component={ FilterSalongs }
             />
             <Route component={NotFound} />
           </Switch>

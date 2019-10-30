@@ -28,7 +28,7 @@ function SalongHeader(props) {
       </div>
 
       <div>
-        <Link to="/filter_salongs">
+        <Link to="/">
           <img
             alt="back"
             className="header__back link"
