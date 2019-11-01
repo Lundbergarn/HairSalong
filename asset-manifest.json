@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HairSalong/static/css/main.75c32fd9.chunk.css",
-    "main.js": "/HairSalong/static/js/main.ffded3f1.chunk.js",
-    "main.js.map": "/HairSalong/static/js/main.ffded3f1.chunk.js.map",
+    "main.js": "/HairSalong/static/js/main.f14dcdb6.chunk.js",
+    "main.js.map": "/HairSalong/static/js/main.f14dcdb6.chunk.js.map",
     "runtime-main.js": "/HairSalong/static/js/runtime-main.5ea6371f.js",
     "runtime-main.js.map": "/HairSalong/static/js/runtime-main.5ea6371f.js.map",
     "static/js/2.a13e19b8.chunk.js": "/HairSalong/static/js/2.a13e19b8.chunk.js",
     "static/js/2.a13e19b8.chunk.js.map": "/HairSalong/static/js/2.a13e19b8.chunk.js.map",
     "index.html": "/HairSalong/index.html",
-    "precache-manifest.b2434302ea9c1f0737f6a35530500cf5.js": "/HairSalong/precache-manifest.b2434302ea9c1f0737f6a35530500cf5.js",
+    "precache-manifest.e094da795631b3d5983c551b661adfbc.js": "/HairSalong/precache-manifest.e094da795631b3d5983c551b661adfbc.js",
     "service-worker.js": "/HairSalong/service-worker.js",
     "static/css/main.75c32fd9.chunk.css.map": "/HairSalong/static/css/main.75c32fd9.chunk.css.map",
     "static/media/index.css": "/HairSalong/static/media/Font Bureau - MillerBanner Light.aff4e59d.otf",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5ea6371f.js",
     "static/js/2.a13e19b8.chunk.js",
     "static/css/main.75c32fd9.chunk.css",
-    "static/js/main.ffded3f1.chunk.js"
+    "static/js/main.f14dcdb6.chunk.js"
   ]
 }
