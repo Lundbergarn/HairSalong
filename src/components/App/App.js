@@ -18,7 +18,7 @@ const App = () => {
       <Router >
           <Switch>
             <Route
-              path="/"
+              path="/filter_salongs"
               exact
               component={ FilterSalongs }
             />
