@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-
+import { useParams } from 'react-router-dom';
 import SalongsContext from '../../App/SalongsContext';
 import SalongHeader from './SalongHeader';
 import SalongNavigation from './SalongNavigation';
@@ -7,10 +7,10 @@ import SalongInfo from './SalongInfo';
 import './Salong.css';
 
 function Salong() {
+  let { id } = useParams();
   const salongs = useContext(SalongsContext);
   const salong = salongs.filter(salong => {
-    let href = window.location.pathname;
-    if (('/salong/' + salong.id) === href) {
+    if (salong.id === id) {
       return salong;
     }
     return null;
@@ -18,9 +18,9 @@ function Salong() {
 
   return (
     <div className="salong">
-      <SalongHeader salong={salong}/>
+      <SalongHeader salong={salong[0]}/>
       <SalongNavigation/>
-      <SalongInfo salong={salong}/>
+      <SalongInfo salong={salong[0]}/>
     </div>
   );
 }

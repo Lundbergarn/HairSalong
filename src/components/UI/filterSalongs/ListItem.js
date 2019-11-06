@@ -17,7 +17,7 @@ function ListItem(props) {
     <article className="listItem">
 
       <div className="listItem__section ">
-        <p className="listItem__section__p">
+        <p className="listItem__section__time">
           12.00
         </p>
       </div>
@@ -32,13 +32,13 @@ function ListItem(props) {
             (32)
           </span>
         </div>
-        <p className="listItem__section__p">
+        <p className="listItem__section__adress">
           {adress}
         </p>
       </div>
 
       <div className="listItem__section">
-        <p className="listItem__section__p">
+        <p className="listItem__section__price">
           {price} kr
         </p>
         <span className="listItem__section__span">

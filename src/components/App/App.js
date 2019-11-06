@@ -23,7 +23,7 @@ const App = () => {
               component={ FilterSalongs }
             />
             <Route
-              path="/salong/*"
+              path="/salong/:id"
               exact
               component={ SalongView } 
             />

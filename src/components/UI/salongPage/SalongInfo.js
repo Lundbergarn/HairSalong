@@ -12,7 +12,7 @@ SalongInfo.propTypes = {
 };
 
 function SalongInfo(props) {
-  let input = props.salong[0] || [];
+  let input = props.salong || [];
   const { adress, post, city, phone, time, webpage, info } = input;
 
   return (

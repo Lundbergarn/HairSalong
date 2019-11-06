@@ -14,7 +14,7 @@ SalongHeader.propTypes = {
 };
 
 function SalongHeader(props) {
-  let input = props.salong[0] || [];
+  let input = props.salong || [];
   const { stars, name } = input;
 
   return (

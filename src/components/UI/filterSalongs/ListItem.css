@@ -18,6 +18,7 @@
   font-size: 20px;
   font-weight: 300;
   color: #202020;
+  font-family: MillerBanner Light;
 }
 .listItem__section__stars {
   display: flex;
@@ -26,13 +27,27 @@
   padding-left: 6px;
   padding-top: 3px;
 }
-.listItem__section__p {
+.listItem__section__time {
+  padding-top: 4px;
+}
+.listItem__section__price {
   font-size: 15px;
-  color: #202020;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal
+}
+.listItem__section__adress {
+  font-size: 15px;
+  color: #656565;
+  font-weight: 300;
+  margin-top: 0;
 }
 .listItem__section__span {
   font-size: 13px;
-  color: #666666;
+  color: #656565;
+  font-weight: 300;
 }
 .center {
   align-self: center;
@@ -41,4 +56,6 @@
   width: 8;
   height: 11px;
   object-fit: contain;
+  position: relative;
+  top: 25px;
 }

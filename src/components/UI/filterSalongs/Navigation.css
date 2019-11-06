@@ -11,3 +11,15 @@
   height: 19px;
   object-fit: contain;
 }
+
+h2 {
+  font-family: MillerBanner Light;
+  font-size: 22px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.13px;
+  text-align: center;
+  color: #202020;
+}

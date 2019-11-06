@@ -14,17 +14,17 @@ function Stars(props) {
   function renderStars(amount) {
     let stars = [];
     for(let i = 0; i < amount; i++) {
-      stars.push(<img className="star" src={starFull} alt="star full"></img>);
+      stars.push(<img key={Math.random()} className="star" src={starFull} alt="star full"></img>);
     }
     for(let i = 0; i < (5-amount); i++) {
-      stars.push(<img className="star" src={starEmpty} alt="star full"></img>);
+      stars.push(<img key={Math.random()} className="star" src={starEmpty} alt="star empty"></img>);
     }
     return stars;
   }
 
   return (
     <div className="salong">
-      {renderStars(Number(props.stars))}
+      {renderStars(props.stars)}
     </div>
   );
 }
