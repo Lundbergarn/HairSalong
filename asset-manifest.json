@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HairSalong/static/css/main.75c32fd9.chunk.css",
-    "main.js": "/HairSalong/static/js/main.4a042497.chunk.js",
-    "main.js.map": "/HairSalong/static/js/main.4a042497.chunk.js.map",
+    "main.css": "/HairSalong/static/css/main.1abfc862.chunk.css",
+    "main.js": "/HairSalong/static/js/main.75b964f4.chunk.js",
+    "main.js.map": "/HairSalong/static/js/main.75b964f4.chunk.js.map",
     "runtime-main.js": "/HairSalong/static/js/runtime-main.5ea6371f.js",
     "runtime-main.js.map": "/HairSalong/static/js/runtime-main.5ea6371f.js.map",
-    "static/js/2.a13e19b8.chunk.js": "/HairSalong/static/js/2.a13e19b8.chunk.js",
-    "static/js/2.a13e19b8.chunk.js.map": "/HairSalong/static/js/2.a13e19b8.chunk.js.map",
+    "static/js/2.57ddf1b4.chunk.js": "/HairSalong/static/js/2.57ddf1b4.chunk.js",
+    "static/js/2.57ddf1b4.chunk.js.map": "/HairSalong/static/js/2.57ddf1b4.chunk.js.map",
     "index.html": "/HairSalong/index.html",
-    "precache-manifest.59a893d271cc8eb76e0b6fa281cc72f1.js": "/HairSalong/precache-manifest.59a893d271cc8eb76e0b6fa281cc72f1.js",
+    "precache-manifest.2178b3e00d4b40c11fa1351119ea6618.js": "/HairSalong/precache-manifest.2178b3e00d4b40c11fa1351119ea6618.js",
     "service-worker.js": "/HairSalong/service-worker.js",
-    "static/css/main.75c32fd9.chunk.css.map": "/HairSalong/static/css/main.75c32fd9.chunk.css.map",
+    "static/css/main.1abfc862.chunk.css.map": "/HairSalong/static/css/main.1abfc862.chunk.css.map",
     "static/media/index.css": "/HairSalong/static/media/Font Bureau - MillerBanner Light.aff4e59d.otf",
     "static/media/image.png": "/HairSalong/static/media/image.aa48c748.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5ea6371f.js",
-    "static/js/2.a13e19b8.chunk.js",
-    "static/css/main.75c32fd9.chunk.css",
-    "static/js/main.4a042497.chunk.js"
+    "static/js/2.57ddf1b4.chunk.js",
+    "static/css/main.1abfc862.chunk.css",
+    "static/js/main.75b964f4.chunk.js"
   ]
 }
